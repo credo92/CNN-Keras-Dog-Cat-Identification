@@ -97,29 +97,3 @@ else:
     prediction = 'cat'
 
 print(prediction)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
